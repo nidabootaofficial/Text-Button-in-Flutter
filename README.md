@@ -5,10 +5,9 @@ Features includes Cross-Platform Compatibility, User-Friendly Interface,Advanced
 
 I warmly welcome contributions from the community to make this project even better. To contribute, follow these guidelines:
 
-Clone the Repository
+Clone the Repository,
 Fork the repository and create a new branch. 
 Make your changes and submit a pull request.
-Issues and Bug Reports
 
 If you encounter any issues or want to report a bug, please Contact With me. I appreciate your feedback and assistance in improving the project.
 Feel free to explore, contribute, and let us know your thoughts! Thank you for being a part of my Github account!

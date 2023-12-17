@@ -13,4 +13,3 @@ If you encounter any issues or want to report a bug, please Contact With me. I a
 
 Feel free to explore, contribute, and let us know your thoughts! Thank you for being a part of my Github account!
 
-Contact For more information https://www.instagram.com/nidabootaofficial/

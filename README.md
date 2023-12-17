@@ -3,21 +3,11 @@ Welcome to my repository!This is Nida a passionate Flutter developer with expert
 
 Features includes Cross-Platform Compatibility, User-Friendly Interface,Advanced Functionality and Scalable Architecture.
 
-To get started, follow these step:
-
-Clone the Repository: git clone https://github.com/nidabootaofficial/Text-Button-in-Flutter
-
-I warmly welcome contributions from the community to make https://github.com/nidabootaofficial/Text-Button-in-Flutter even better. To contribute, follow these guidelines:
+I warmly welcome contributions from the community to make this project even better. To contribute, follow these guidelines:
+Clone the Repository
 Fork the repository and create a new branch. 
-
 Make your changes and submit a pull request.
-
 Issues and Bug Reports
 
 If you encounter any issues or want to report a bug, please Contact With me. I appreciate your feedback and assistance in improving the project.
-
 Feel free to explore, contribute, and let us know your thoughts! Thank you for being a part of my Github account!
-
-Instagram: #https://www.instagram.com/nidasoftsolutions/
-facebook: #https://www.facebook.com/nidasoftsolutions
-
